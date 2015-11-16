@@ -1,0 +1,27 @@
+{
+  "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
+  "bugs": {
+    "url": "https://github.com/mvayngrib/react-native-mem-asyncstorage/issues"
+  },
+  "description": "[![NPM](https://nodei.co/npm/react-native-mem-asyncstorage.png)](https://nodei.co/npm/react-native-mem-asyncstorage/)",
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/mvayngrib/react-native-mem-asyncstorage",
+  "keywords": [
+    "in-memory",
+    "asyncstorage",
+    "react-native",
+    "react-native-component"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-mem-asyncstorage",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvayngrib/react-native-mem-asyncstorage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
